@@ -1,5 +1,5 @@
 # 2MD2-atividade_switchCase
-Atividade de switch case com tema de zelda
+Atividade de switch case com tema de zelda <br>
 Ganon - Vilão Principal
 Din - a Deusa da Montanha (Criou a natureza)
 Farore - a Deusa da Coragem (Criou os animais)
